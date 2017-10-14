@@ -1,10 +1,18 @@
 # Flags.CSS
-Simple Flags in the CSS
+<h2>Simple Flags in the CSS</h2>
 <img src="https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fflg.png?alt=media&token=3efddcb8-073c-4f50-a124-d724264ad602">
 
-CSS for SVG country flag
+<h2>CSS for SVG country flag</h2>
+<h1>Installation</h1>
+Copy and paste the code below
+before the closing tag </head>
 
-All images in SVG format are stored in the Firebase Storage <img src="https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Ffirebase_logo.png?alt=media&token=d11a07f3-8d1e-4c22-a032-88fbbfeef975" width="70" height="60">
+    <link rel="stylesheet" href="https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fflg.css?alt=media&token=8f444b4b-02fd-4db3-ba3e-9a8d1869a378">
+    
+   <link rel="stylesheet" href="https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fflg.css?alt=media&token=8f444b4b-02fd-4db3-ba3e-9a8d1869a378">
+   
+All images in SVG format are stored in the Firebase Storage 
+<img src="https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Ffirebase_logo.png?alt=media&token=d11a07f3-8d1e-4c22-a032-88fbbfeef975" width="70" height="60">
 
 
 ## Flag list
