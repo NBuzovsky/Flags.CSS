@@ -5,7 +5,7 @@
 <h2>CSS for SVG country flag</h2>
 <h1>Installation</h1>
 Copy and paste the code below
-before the closing tag </head>
+before the closing tag - head
 
     <link rel="stylesheet" href="https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fflg.css?alt=media&token=8f444b4b-02fd-4db3-ba3e-9a8d1869a378">
     
