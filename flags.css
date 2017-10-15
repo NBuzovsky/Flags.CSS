@@ -30,6 +30,14 @@ margin: 5px 10px 5px 0;
 background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fsquare%2F551953.svg?alt=media&token=fc81ef15-75e7-424e-8fc1-c6f8653659a9') no-repeat;
 background-size: 25px 25px;
 }
+.en-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Frectangular%2F555526.svg?alt=media&token=a763c5b9-bb29-4296-b338-2492445f7297') no-repeat;
+background-size: 25px 25px;
+}
 .en-gb-rounded {
 height: 25px;
 width: 25px;
