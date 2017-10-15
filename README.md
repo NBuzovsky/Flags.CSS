@@ -28,7 +28,7 @@ All images in SVG format are stored in the Firebase Storage
 | ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197375.svg?alt=media&token=920a6501-fdab-46fb-92e7-6202ea692ebb) | `<a class="zh"></a>` | zh | China |
 | ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197626.svg?alt=media&token=97a2e8b2-7cec-47be-a9ed-9678b87c16c4) | `<a class="it"></a>` | it | Italy | 
 | ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197604.svg?alt=media&token=9a292df1-8ff8-42ed-b9c7-8cce32b11ab0) | `<a class="ja"></a>` | ja | Japan | 
-| ![](dist/flags/png/arm.png) | `<a class="flg"></a>` | cd | am | 
+| ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197386.svg?alt=media&token=633d20e0-3464-4953-b084-ab4aa8a29de1) | `<a class="pt-br"></a>` | pt-br | Brazil | 
 | ![](dist/flags/png/asm.png) | `<a class="flg"></a>` | cd | as | 
 | ![](dist/flags/png/ata.png) | `<a class="flg"></a>` | cd | aq | 
 | ![](dist/flags/png/atf.png) | `<a class="flg"></a>` | cd | tf | 
