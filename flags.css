@@ -94,3 +94,11 @@ margin: 5px 10px 5px 0;
 background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197430.svg?alt=media&token=542ebc91-d3e1-4050-b3eb-7391f84d804d') no-repeat;
 background-size: 25px 25px;
 }
+.bn {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197419.svg?alt=media&token=0071a717-9d72-46bc-8cf9-5707188bf21f') no-repeat;
+background-size: 25px 25px;
+}
