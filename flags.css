@@ -70,3 +70,11 @@ margin: 5px 10px 5px 0;
 background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197604.svg?alt=media&token=9a292df1-8ff8-42ed-b9c7-8cce32b11ab0') no-repeat;
 background-size: 25px 25px;
 }
+.pt-br {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197386.svg?alt=media&token=633d20e0-3464-4953-b084-ab4aa8a29de1') no-repeat;
+background-size: 25px 25px;
+}
