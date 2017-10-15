@@ -34,6 +34,9 @@ All images in SVG format are stored in the Firebase Storage
 | ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197419.svg?alt=media&token=0071a717-9d72-46bc-8cf9-5707188bf21f) | `<a class="bn"></a>` | bn | Bengali - India | 
 | ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197507.svg?alt=media&token=2438714b-9e4e-47b9-a2e9-40f9f3f49921) | `<a class="en-au"></a>` | en-au | Australia | 
 | ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197452.svg?alt=media&token=5aa7c6f0-6c05-43ef-826e-ebeb35b8f715) | `<a class="th"></a>` | th | Thailand  | 
+| ![](https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197441.svg?alt=media&token=8c655b71-aece-4728-a502-868e2a6d074e) | `<a class="nl"></a>` | nl | Netherlands | 
+| ![](dist/flags/png/aut.png) | `<a class="flg"></a>` | cd | at | 
+| ![](dist/flags/png/aut.png) | `<a class="flg"></a>` | cd | at | 
 | ![](dist/flags/png/aut.png) | `<a class="flg"></a>` | cd | at | 
 
 
