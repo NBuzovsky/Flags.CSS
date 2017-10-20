@@ -334,3 +334,27 @@ margin: 5px 10px 5px 0;
 background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F099-aruba.svg?alt=media&token=d30ca809-faa8-4030-afef-e80be5ab687c') no-repeat;
 background-size: 25px 25px;
 }
+.en-au-rounded {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Faustralia.svg?alt=media&token=f88a0008-0c00-4b07-8ec3-c19891eb59b2') no-repeat;
+background-size: 25px 25px;
+}
+.en-au-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Faustralia.svg?alt=media&token=82135b81-0c17-4c67-b9b2-a29c9beb840a') no-repeat;
+background-size: 25px 25px;
+}
+.en-au-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F130-australia.svg?alt=media&token=789bd1b0-3394-4124-91e4-711e87b87e4b') no-repeat;
+background-size: 25px 25px;
+}
