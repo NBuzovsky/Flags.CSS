@@ -3,174 +3,334 @@ height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197408.svg?alt=media&token=16e3ce8c-e538-453b-a779-e790967fc2e6') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Frussia.svg?alt=media&token=9a85dc9e-d604-4254-9578-4477eb93a04a') no-repeat;
 background-size: 25px 25px;
 }
-.de-rounded {
+.ru-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197571.svg?alt=media&token=597581ad-0109-49be-93fd-033129aa40bb') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Frussia.svg?alt=media&token=6280a413-9ea2-41c4-b391-097add3ca890') no-repeat;
 background-size: 25px 25px;
 }
-.en-rounded {
-height: 25px;
-width: 25px;
-float: left;
-margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197484.svg?alt=media&token=fe715af6-449e-48b2-9b75-0d4dcb448cb3') no-repeat;
-background-size: 25px 25px;
-}
-.en-square {
-height: 25px;
-width: 25px;
-float: left;
-margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fsquare%2F551953.svg?alt=media&token=fc81ef15-75e7-424e-8fc1-c6f8653659a9') no-repeat;
-background-size: 25px 25px;
-}
-.en-rectangular {
+.ru-rectangular {
 height: 25px;
 width: 52px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Frectangular%2F555526.svg?alt=media&token=a763c5b9-bb29-4296-b338-2492445f7297') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F228-russia.svg?alt=media&token=2186a505-b251-493a-9623-af5872a5f977') no-repeat;
 background-size: 25px 25px;
 }
-.en-gb-rounded {
+.ab-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197374.svg?alt=media&token=350e35e7-3021-4486-b0f9-40175fbab667') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fabkhazia.svg?alt=media&token=f9064f8f-efdb-4582-881e-aec4d8ba9788') no-repeat;
 background-size: 25px 25px;
 }
-.en-gb-square {
+.ab-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fsquare%2F551844.svg?alt=media&token=a3f135cb-d5f7-4520-98d2-fd8e74dbd24a') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fabkhazia.svg?alt=media&token=08ea9a83-04ed-413b-938a-551c6e39dfb2') no-repeat;
 background-size: 25px 25px;
 }
-.en-gb-rectangular {
+.ab-rectangular {
 height: 25px;
 width: 52px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Frectangular%2F555417.svg?alt=media&token=463790a9-e18b-42a4-9dba-9fe8a70e554b') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F100-abkhazia.svg?alt=media&token=b7223f34-941e-4016-8261-bd581a09f4b4') no-repeat;
 background-size: 25px 25px;
 }
-.fr-rounded {
+.af-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197560.svg?alt=media&token=06608f24-a9ac-42bc-909e-7608b00cd461') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fafghanistan.svg?alt=media&token=c364b39b-fd8c-4ae4-a6af-8ed6a7d82def') no-repeat;
 background-size: 25px 25px;
 }
-.fr-square {
+.af-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Fsquare%2F552029.svg?alt=media&token=f91b350f-f772-42a4-9f8d-b65303077c83') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fafghanistan.svg?alt=media&token=bc85e534-3548-4205-bcf4-1f80ada44b11') no-repeat;
 background-size: 25px 25px;
 }
-.fr-rectangular {
+.af-rectangular {
 height: 25px;
 width: 52px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2Frectangular%2F555602.svg?alt=media&token=d3c77e25-6fac-4352-b2b9-798cc8494e6f') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F122-afghanistan.svg?alt=media&token=33c165c2-4a35-4261-bed5-a3ebb7c04e79') no-repeat;
 background-size: 25px 25px;
 }
-.es-rounded {
+.ax-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197593.svg?alt=media&token=cfedb2af-22b9-46ca-8aa8-eb5e0dab3d0c') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Faland-islands.svg?alt=media&token=72423dce-06e2-4fa6-bfe7-625a74b1ebcc') no-repeat;
 background-size: 25px 25px;
 }
-.zh-rounded {
+.ax-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197375.svg?alt=media&token=920a6501-fdab-46fb-92e7-6202ea692ebb') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Faland-islands.svg?alt=media&token=8b65f50a-7ef1-42e9-9053-1d36e524b807') no-repeat;
 background-size: 25px 25px;
 }
-.it-rounded {
+.ax-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F105-aland-islands.svg?alt=media&token=ea170d30-3e0c-4338-b18f-85b629f3878d') no-repeat;
+background-size: 25px 25px;
+}
+.sq-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197626.svg?alt=media&token=97a2e8b2-7cec-47be-a9ed-9678b87c16c4') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Falbania.svg?alt=media&token=f4dc7e12-9b08-4e77-b2af-a8f19112124f') no-repeat;
 background-size: 25px 25px;
 }
-.ja-rounded {
+.sq-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197604.svg?alt=media&token=9a292df1-8ff8-42ed-b9c7-8cce32b11ab0') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Falbania.svg?alt=media&token=ea2230fb-944e-43a2-abcd-64008d982a86') no-repeat;
 background-size: 25px 25px;
 }
-.pt-br-rounded {
+.sq-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F117-albania.svg?alt=media&token=e8d9cba2-63c6-48ec-8af7-e7333759b715') no-repeat;
+background-size: 25px 25px;
+}
+.ar-dz-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197386.svg?alt=media&token=633d20e0-3464-4953-b084-ab4aa8a29de1') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Falgeria.svg?alt=media&token=d17d1767-5621-44af-bd04-0142573c1e73') no-repeat;
 background-size: 25px 25px;
 }
-.european-union-rounded {
+.ar-dz-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197615.svg?alt=media&token=c504af24-719d-4825-b322-76c44a7465af') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Falgeria.svg?alt=media&token=1b68897e-c947-4a84-8f0a-ef4af763daac') no-repeat;
 background-size: 25px 25px;
 }
-.en-ca-rounded {
+.ar-dz-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F126-algeria.svg?alt=media&token=018db9f7-2026-4d92-875b-c8747a2807be') no-repeat;
+background-size: 25px 25px;
+}
+.as-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197430.svg?alt=media&token=542ebc91-d3e1-4050-b3eb-7391f84d804d') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Famerican-samoa.svg?alt=media&token=e1cb72f4-7b0a-49ed-9d35-1b461819ffd6') no-repeat;
 background-size: 25px 25px;
 }
-.bn-rounded {
+.as-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197419.svg?alt=media&token=0071a717-9d72-46bc-8cf9-5707188bf21f') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Famerican-samoa.svg?alt=media&token=7ff784e7-418e-42a5-a988-1e90d98a47d7') no-repeat;
 background-size: 25px 25px;
 }
-.en-au-rounded {
+.as-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F085-american-samoa.svg?alt=media&token=009bdee7-b27e-4ab3-a15b-17836d6b4fb5') no-repeat;
+background-size: 25px 25px;
+}
+.ad-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197507.svg?alt=media&token=2438714b-9e4e-47b9-a2e9-40f9f3f49921') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fandorra.svg?alt=media&token=9d05a66b-0123-4a32-9ac9-f278607b2fb5') no-repeat;
 background-size: 25px 25px;
 }
-.th-rounded {
+.ad-square {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197452.svg?alt=media&token=5aa7c6f0-6c05-43ef-826e-ebeb35b8f715') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fandorra.svg?alt=media&token=a953f7ea-6e00-4017-9165-1f1706cbc247') no-repeat;
 background-size: 25px 25px;
 }
-.nl-rounded {
+.ad-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F102-andorra.svg?alt=media&token=0e1e7d20-a94f-463d-8e36-483baaf3a88a') no-repeat;
+background-size: 25px 25px;
+}
+.ao-rounded {
 height: 25px;
 width: 25px;
 float: left;
 margin: 5px 10px 5px 0;
-background: url('https://firebasestorage.googleapis.com/v0/b/android-6224a.appspot.com/o/assets%2F197441.svg?alt=media&token=8c655b71-aece-4728-a502-868e2a6d074e') no-repeat;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fangola.svg?alt=media&token=fe404947-7cf9-4577-b81e-9684a7f03165') no-repeat;
+background-size: 25px 25px;
+}
+.ao-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fangola.svg?alt=media&token=6ba481f3-3e5d-44ca-9580-d8f42de7d4bc') no-repeat;
+background-size: 25px 25px;
+}
+.ao-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F124-angola.svg?alt=media&token=0ec4855e-4383-492e-a797-cbfacf362818') no-repeat;
+background-size: 25px 25px;
+}
+.ai-rounded {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fanguilla.svg?alt=media&token=890e67bf-8d75-466e-9fd9-37dc05b66c8e') no-repeat;
+background-size: 25px 25px;
+}
+.ai-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fanguilla.svg?alt=media&token=5c5fb43b-b714-41af-ab75-cc491f19678b') no-repeat;
+background-size: 25px 25px;
+}
+.ai-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F087-anguilla.svg?alt=media&token=c049e047-5ee8-43c6-8f33-40b190ebe3dd') no-repeat;
+background-size: 25px 25px;
+}
+.ag-rounded {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fantigua-and-barbuda.svg?alt=media&token=6b0f966d-407a-4cdf-9f84-c5113e0b64c8') no-repeat;
+background-size: 25px 25px;
+}
+.ag-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fantigua-and-barbuda.svg?alt=media&token=7bf8922a-ea0f-401e-8cf0-daea3c1497c2') no-repeat;
+background-size: 25px 25px;
+}
+.ag-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F104-antigua-and-barbuda.svg?alt=media&token=bbe7df17-47e2-4b3a-a366-f69636abcfbb') no-repeat;
+background-size: 25px 25px;
+}
+.es-ar-rounded {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Fargentina.svg?alt=media&token=53caa47f-1855-41c3-9a48-dfaf119a69ac') no-repeat;
+background-size: 25px 25px;
+}
+.es-ar-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Fargentina.svg?alt=media&token=f95df00d-8b17-4f1a-a3ec-593c0fd8aa69') no-repeat;
+background-size: 25px 25px;
+}
+.es-ar-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F064-argentina.svg?alt=media&token=da89628b-adc2-41d2-945a-e9371034461c') no-repeat;
+background-size: 25px 25px;
+}
+.hy-rounded {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Farmenia.svg?alt=media&token=0d8265f3-9ed3-43c5-869d-7ebcb291dc20') no-repeat;
+background-size: 25px 25px;
+}
+.hy-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Farmenia.svg?alt=media&token=1de023d8-b3e2-495f-adf5-c9f6d4f289c3') no-repeat;
+background-size: 25px 25px;
+}
+.hy-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F121-armenia.svg?alt=media&token=0e129cbe-7be6-41b0-8e8f-cc9743b76268') no-repeat;
+background-size: 25px 25px;
+}
+.aw-rounded {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rounded%2Faruba.svg?alt=media&token=529bc684-be99-4f3f-b997-57f22806b6d3') no-repeat;
+background-size: 25px 25px;
+}
+.aw-square {
+height: 25px;
+width: 25px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/square%2Faruba.svg?alt=media&token=6ae3b1e0-2a63-4d94-b0c1-6b11379f0e84') no-repeat;
+background-size: 25px 25px;
+}
+.aw-rectangular {
+height: 25px;
+width: 52px;
+float: left;
+margin: 5px 10px 5px 0;
+background: url('https://firebasestorage.googleapis.com/v0/b/flagscss.appspot.com/o/rectangular%2F099-aruba.svg?alt=media&token=d30ca809-faa8-4030-afef-e80be5ab687c') no-repeat;
 background-size: 25px 25px;
 }
